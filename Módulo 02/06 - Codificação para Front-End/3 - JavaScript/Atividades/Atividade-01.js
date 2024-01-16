@@ -1,6 +1,5 @@
 //1-Q 
-/*valor = 8
-alert(3+5, valor)
+//alert(3+5)
 
 //2-Q
 /*let nome = "Alice"
@@ -13,22 +12,25 @@ let quantidade = 5
 alert(preço * quantidade)
 
 //4-Q
-
+alert(7 > 3)
 
 //5-Q
 /*let nome = prompt("Qual seu nome?")
 let idade = prompt("Qual sua idade?")
 let altura = prompt("Qual sua altura?")
 
-alert(" Meu nome é " + nome + " tenho " + idade + " anos e" + altura + " metros de altura " )*/
+alert(" Meu nome é " + nome + " tenho " + idade + " anos e" + altura + " metros de altura " )
 
 //6-Q
-
+let real = prompt("Insira o valor")
+let custo = 4.90
+alert("o valor convertido é " + real/custo)
 
 //7-Q
-
+let nome = prompt("Digite um nome")
+document.getElementById("nome").textContent = nome*/
 
 //8-Q
- document.getElementById("Olá")
 
+ 
 //9-Q
