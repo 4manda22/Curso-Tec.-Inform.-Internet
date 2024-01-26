@@ -12,8 +12,8 @@ async function exemploAssincrono() {
 async function executar() {
     console.log('Antes de chamar a função assíncrona');
 
-    //const resultado = await exemploAssincrono();
-    const resultado = exemploAssincrono();
+    let resultado = await exemploAssincrono();
+    //const resultado = exemploAssincrono();
 
     console.log('Depois de chamar a função assíncrona');
     console.log('Resultado:', resultado);
