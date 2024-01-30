@@ -26,9 +26,10 @@ avisar()
 */
 
 
-setInterval(acionar, 2000)
+/* setInterval(acionar, 2000)
 
 function acionar(){
     let elemento = document.getElementById("demo")
     elemento.textContent = elemento.textContent + "Senai "
 }
+*/

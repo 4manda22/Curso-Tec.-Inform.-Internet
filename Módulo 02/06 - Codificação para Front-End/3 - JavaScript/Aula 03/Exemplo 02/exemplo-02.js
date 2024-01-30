@@ -56,6 +56,7 @@ Questão 3.	Usando o For imprima os números de 15 a 3 de forma
 decrescente.
 */
 
-for (let x = 15; x >= 3; x--){
+/*for (let x = 15; x >= 3; x--){
     alert(x)
 }
+*/
