@@ -38,6 +38,7 @@ function on(){
 //Q-5 Console do usúario o ano que ele nasceu e o ano atual, após isso chame uma função passando esses valores,
 // por fim mostre em um alert o resultado da subtração desses valores trazendo consequentemente a idade dele em um texto concatenado:
 //Sua idade é de (X) anos"
+/*
 var anoNascimento = prompt("Qual é o ano do seu nascimento?");
 
 var anoAtual = prompt("Qual é o Ano atual?")
@@ -49,3 +50,4 @@ function calcularIdade(anoNascimento, anoAtual) {
 var idade = calcularIdade(anoNascimento, anoAtual);
 
 alert("Sua idade é de " + idade + " anos.");
+*/
